@@ -1,0 +1,6 @@
+{
+  "name": "Al-Rawabi Travel & Tours B2B Portal",
+  "description": "Enterprise Travel Agency portal for group ticketing, real-time airline seat inventory, group block allotment management, and specialized Dubai & Saudi Arabia visa assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
